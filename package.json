@@ -2,7 +2,6 @@
     "name": "minecraft-launcher-core",
     "version": "3.19.0",
     "description": "Lightweight module that downloads and runs Minecraft using javascript / NodeJS",
-    "type": "module",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Pierce01/MinecraftLauncher-core.git"
