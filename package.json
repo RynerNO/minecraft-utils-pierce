@@ -21,7 +21,7 @@
         "url": "https://github.com/Pierce01/MinecraftLauncher-core/issues"
     },
     "homepage": "https://github.com/Pierce01/MinecraftLauncher-core#readme",
-    "main": "./build/cjs/index.js",
+    "main": "./build/esm/index.js",
     "module": "./build/esm/index.js",
     "types": "./build/esm/index.d.ts",
     "files": [
